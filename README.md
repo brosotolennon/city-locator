@@ -13,13 +13,13 @@ Installation: Ensure dependencies are installed by running:
 
 Ensure to download the following sample data file to directory:
 
-city_data.txt
+- city_data.txt
 
 
 
 **Running the code: Execute the program by providing the necessary command-line arguments:**
 
-python3 cities.py city_data.txt 38.9897 -76.9378
-python3 cities.py city_data.txt 38.9897 -76.9378 -p 50_000
-python3 cities.py city_data.txt 38.9897 -76.9378 -n 5
-python3 cities.py city_data.txt 38.9897 -76.9378 -p 50_000 -n 5
+- python3 cities.py city_data.txt 38.9897 -76.9378
+- python3 cities.py city_data.txt 38.9897 -76.9378 -p 50_000
+- python3 cities.py city_data.txt 38.9897 -76.9378 -n 5
+- python3 cities.py city_data.txt 38.9897 -76.9378 -p 50_000 -n 5
