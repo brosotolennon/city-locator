@@ -8,8 +8,8 @@ Cities Locator is a Python-based geographical analysis tool designed to empower 
 **Usage**
 
 Installation: Ensure dependencies are installed by running:
-python3 -m pip install --upgrade pip
-python3 -m pip install haversine vincenty
+- python3 -m pip install --upgrade pip
+- python3 -m pip install haversine vincenty
 
 Ensure to download the following sample data file to directory:
 
